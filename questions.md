@@ -4,3 +4,4 @@
 - should the beta test be monitored by anyone or just run as it goes?
 - would it make sense to creat a standard form for the default tests where just succes/fail will be recorded?
 - is it possible that mycompany.erpnext.com cloud-uers who participate in the beta get a copy of their instances for testing purposes (mycompany-beta.erpnext.com). If this is desired, need to add a procedure to apply for the beta program
+- For which level of new Version should this be applied. (I mean only major updates like 6 > 7, or also somethin minor like 6.1.2 > 6.1.3)?
