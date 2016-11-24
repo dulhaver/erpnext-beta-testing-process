@@ -1,0 +1,9 @@
+# Testing standards
+
+beta tester will use a copy of their production database to run the beta and will conduct the following standard test by default
+
+1. run a Trial Balance before and after the update
+2. ...
+3. ...
+4. ...
+ 
