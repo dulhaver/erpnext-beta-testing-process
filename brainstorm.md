@@ -1,6 +1,6 @@
 ## Timeline
 
-**Day 1** (PHASE1)  
+###Day 1 (PHASE1)  
 - Frappe Core Team creates a branch Beta-X.Y.Z (from 'develop) and accounces the Beta release in the ERPNext Forum
 
 **Day 1-10** (PHASE1) - 10 days  
