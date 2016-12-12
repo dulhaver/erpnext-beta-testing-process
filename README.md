@@ -1,4 +1,5 @@
-### This should line out a beta-testing procedure for ERPNext Version updates
+### This should is the current status for beta-testing procedure/timeline for ERPNext release v7.2.0
 
-this is in development. Therefore the 'master' branch is yet empty
+beta release will be done on December 15 2016 ans isupposed to take ~16 days
+
 
